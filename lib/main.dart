@@ -24,7 +24,6 @@ const htmlCodeList = [
   },
   {
     "t": "youtube",
-    "h": 180,
     "v":
         '<iframe src="https://www.youtube.com/embed/kfgu_DBKVNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   },
@@ -36,7 +35,6 @@ const htmlCodeList = [
   },
   {
     "t": "youtube",
-    "h": 180,
     "v":
         '<iframe src="https://www.youtube.com/embed/Kdf1L2efrJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   },
