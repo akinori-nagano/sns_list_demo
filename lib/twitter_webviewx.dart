@@ -42,8 +42,6 @@ class _WebViewXPageState extends State<TwitterWebViewx> {
     print('onPageStarted called.');
   }
 
-// document.body.clientHeight;
-
   Widget _buildWebViewX() {
     Size windowSize = MediaQuery.of(context).size;
     print('@@@ 1: w ? ${windowSize.width}, h ? ${windowSize.height}');
